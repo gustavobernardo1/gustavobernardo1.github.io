@@ -1,3 +1,5 @@
+<p align="center"><strong>English</strong> | <a href="README.pt-BR.md">Português (Brasil)</a></p>
+
 # Scientific portfolio
 
 Personal website source for Gustavo Bernardo Brito, built with Quarto.
