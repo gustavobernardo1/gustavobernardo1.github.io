@@ -5,12 +5,14 @@ toc: false
 
 **Applied Mathematics · Scientific Computing · Scientific Machine Learning**
 
-I am an undergraduate student in Applied and Computational Mathematics at the Federal University of Goiás (UFG), Brazil. My interests include mathematical modeling, numerical methods, optimization and uncertainty quantification.
+I am an undergraduate student in Applied and Computational Mathematics at the Federal University of Goiás (UFG), Brazil. My interests include mathematical modeling of complex systems, numerical methods, scientific machine learning, optimization and uncertainty quantification.
 
-## Selected work
+## Current work
 
-- [GraphCube](https://github.com/gustavobernardo1/graphcube-lab): permutation groups, graph theory and heuristic search.
-- [Mapa dos Ipês](https://github.com/gustavobernardo1/mapa-dos-ipes): citizen science and geospatial engineering.
+- **Helios** — physics-guided energy forecasting and stochastic optimization (in development).
+- **Conjectura** — independent exploration of open mathematical conjectures with AI and formal verification.
+- [Computational Mathematics](https://github.com/gustavobernardo1/computational-mathematics) — numerical methods and optimization studies.
+- [Scientific ML](https://github.com/gustavobernardo1/scientific-ml) — inverse problems and physics-guided learning studies.
 
 Explore my [research](research.qmd), [projects](projects/index.qmd), and [technical notes](notes/index.qmd).
 
