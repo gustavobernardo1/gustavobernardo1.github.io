@@ -2,14 +2,23 @@
 title: Projects
 ---
 
-## GraphCube
+## Current research and development
 
-Computational exploration of Rubik's Cube mathematics, permutation groups, graphs and heuristic search. [Repository](https://github.com/gustavobernardo1/graphcube-lab).
+### Helios
 
-## Mapa dos Ipês
+Physics-guided solar energy forecasting, uncertainty quantification and stochastic battery dispatch. In development; no operational results are claimed.
 
-Citizen-science platform for mapping urban trees and recording flowering observations. [Repository](https://github.com/gustavobernardo1/mapa-dos-ipes).
+### Conjectura
 
-## Learning repositories
+Independent research initiative exploring open mathematical conjectures through AI-assisted reasoning, computational experimentation and formal verification in Lean 4. No resolved conjecture is claimed here.
 
-[Computational Mathematics](https://github.com/gustavobernardo1/computational-mathematics) · [Scientific ML](https://github.com/gustavobernardo1/scientific-ml). Newly initialized learning workspaces.
+## Learning and computational studies
+
+- [Computational Mathematics](https://github.com/gustavobernardo1/computational-mathematics): numerical methods, optimization and uncertainty.
+- [Scientific ML](https://github.com/gustavobernardo1/scientific-ml): inverse problems, physics-guided learning and reproducible experiments.
+
+Both are learning workspaces; completed studies will be highlighted after review.
+
+## Other public work
+
+[Mapa dos Ipês](https://github.com/gustavobernardo1/mapa-dos-ipes) — Citizen-science platform for mapping urban trees and recording flowering observations.
