@@ -1,0 +1,4 @@
+body { line-height: 1.7; }
+h1, h2, h3 { letter-spacing: -0.025em; }
+.navbar-brand { font-weight: 600; }
+a { text-underline-offset: 0.18em; }

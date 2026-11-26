@@ -1,0 +1,5 @@
+---
+title: About
+---
+
+Undergraduate student in Applied and Computational Mathematics at UFG, Brazil. Interested in mathematical modeling of complex systems, scientific computing and scientific machine learning.

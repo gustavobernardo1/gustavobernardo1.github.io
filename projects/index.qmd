@@ -1,0 +1,15 @@
+---
+title: Projects
+---
+
+## GraphCube
+
+Computational exploration of Rubik's Cube mathematics, permutation groups, graphs and heuristic search. [Repository](https://github.com/gustavobernardo1/graphcube-lab).
+
+## Mapa dos Ipês
+
+Citizen-science platform for mapping urban trees and recording flowering observations. [Repository](https://github.com/gustavobernardo1/mapa-dos-ipes).
+
+## Learning repositories
+
+[Computational Mathematics](https://github.com/gustavobernardo1/computational-mathematics) · [Scientific ML](https://github.com/gustavobernardo1/scientific-ml). Newly initialized learning workspaces.

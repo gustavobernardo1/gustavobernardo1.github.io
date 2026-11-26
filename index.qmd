@@ -1,0 +1,17 @@
+---
+title: "Gustavo Bernardo Brito"
+toc: false
+---
+
+**Applied Mathematics · Scientific Computing · Scientific Machine Learning**
+
+I am an undergraduate student in Applied and Computational Mathematics at the Federal University of Goiás (UFG), Brazil. My interests include mathematical modeling, numerical methods, optimization and uncertainty quantification.
+
+## Selected work
+
+- [GraphCube](https://github.com/gustavobernardo1/graphcube-lab): permutation groups, graph theory and heuristic search.
+- [Mapa dos Ipês](https://github.com/gustavobernardo1/mapa-dos-ipes): citizen science and geospatial engineering.
+
+Explore my [research](research.qmd), [projects](projects/index.qmd), and [technical notes](notes/index.qmd).
+
+[GitHub](https://github.com/gustavobernardo1) · [Curriculum Lattes](http://lattes.cnpq.br/9675299775092117)

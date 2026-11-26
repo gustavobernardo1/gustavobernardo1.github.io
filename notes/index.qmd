@@ -1,0 +1,5 @@
+---
+title: Technical notes
+---
+
+Reviewed mathematical derivations, reproducible experiments and paper reproductions will appear here. Planned topics include numerical stability, optimization and uncertainty. No completed notes are claimed yet.

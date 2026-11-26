@@ -1,0 +1,13 @@
+---
+title: Research
+---
+
+## Agricultural modeling
+
+Research on soybean yield gaps and agricultural efficiency.
+
+## Environmental data science
+
+Research on rainfall variability and hydroclimatic analysis in the Brazilian Cerrado.
+
+Research data and unpublished findings are shared only when authorized.
