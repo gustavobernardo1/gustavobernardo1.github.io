@@ -19,12 +19,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: quarto-dev/quarto-actions/setup@v2
-      - name: Render website
-        run: quarto render
+      - name: Set up Quarto
+        if: ${{ hashFiles('maintenance/index.html') == '' }}
+        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Prepare website
+        id: render
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -f maintenance/index.html ]; then
+            target="$RUNNER_TEMP/maintenance-site"
+            mkdir -p "$target"
+            cp maintenance/index.html "$target/index.html"
+            cp maintenance/index.html "$target/404.html"
+            echo "path=$target" >> "$GITHUB_OUTPUT"
+          else
+            quarto render
+            echo "path=docs" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: docs
+          path: ${{ steps.render.outputs.path }}
   deploy:
     needs: build
     runs-on: ubuntu-latest
